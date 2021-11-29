@@ -9,8 +9,8 @@
 #### Solved.ac 프로필
 [![solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=psh6464)](https://solved.ac/profile/psh6464)
 
-### 웹
-*  Node.js, JSP
+### 언어
+*  JAVA, Kotlin, Node.js
   
 ### 앱
 * Android
