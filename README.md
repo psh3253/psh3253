@@ -10,7 +10,7 @@
 [![solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=psh6464)](https://solved.ac/profile/psh6464)
 
 ### 언어
-* JAVA, Kotlin, JavaScript
+* C, C++, Java, Kotlin, JavaScript
 
 ### 프레임워크
 * Node.js, Express.js
