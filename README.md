@@ -13,7 +13,7 @@
 * C, C++, Java, Kotlin, JavaScript
 
 ### 프레임워크
-* Node.js, Express.js, Sequelize.js
+* Node.js, Express.js, Sequelize.js, Spring Boot, Spring Data JPA, Spring Security, Vue.js
   
 ### 앱
 * Android
