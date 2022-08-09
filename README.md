@@ -20,3 +20,6 @@
 
 ### 데이터베이스
 * MySQL
+
+### Github;s Status
+![psh3253's GitHub stats](https://github-readme-stats.vercel.app/api?username=psh3253&show_icons=true&theme=tokyonight)  
