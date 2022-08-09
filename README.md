@@ -7,7 +7,7 @@
 ### 알고리즘
 * 알고리즘, 자료구조를 공부하고 있습니다.
 #### Solved.ac 프로필
-[![solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=psh6464)](https://solved.ac/profile/psh6464)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=psh6464)](https://solved.ac/psh6464/)
 
 ### 언어
 * C, C++, Java, Kotlin, JavaScript
