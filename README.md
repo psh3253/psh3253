@@ -10,7 +10,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=psh6464)](https://solved.ac/psh6464/)
 
 ### 언어
-* C, C++, Java, Kotlin, JavaScript
+* C, C++, Java, JavaScript
 
 ### 프레임워크
 * Node.js, Express.js, Sequelize.js, Spring Boot, Spring Data JPA, Spring Security, Vue.js
