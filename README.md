@@ -14,7 +14,7 @@
 * Spring Boot, Spring Data JPA, Spring Security, Spring RestDocs, Vue.js, React, RabbitMQ, WebSocket, Docker, Kubernetes, Jenkins, Firebase, MyBatis, AWS EC2, AWS RDS, AWS SES, AWS S3
 
 ### 데이터베이스
-* MySQL, MongoDB, Redis
+* MySQL, MongoDB, Redis, MariaDB
 
 ### Github's Status
 ![psh3253's GitHub stats](https://github-readme-stats.vercel.app/api?username=psh3253&show_icons=true&theme=tokyonight)  
