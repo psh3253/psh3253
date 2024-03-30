@@ -12,7 +12,7 @@
 * C, C++, Java, JavaScript
 
 ### 기술 스택
-* Spring Boot, Spring Data JPA, Spring Security, Spring RestDocs, Vue.js, React, RabbitMQ, WebSocket, Docker, Kubernetes, Jenkins, Firebase, MyBatis, AWS EC2, AWS RDS, AWS SES, AWS S3
+* Spring Boot, Spring Data JPA, Spring Security, Spring RestDocs, Vue.js, React, RabbitMQ, WebSocket, Apache Kafka, Docker, Kubernetes, Jenkins, Firebase, MyBatis, AWS EC2, AWS RDS, AWS SES, AWS S3
 
 ### 데이터베이스
 * MySQL, MongoDB, Redis, MariaDB
