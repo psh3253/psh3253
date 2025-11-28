@@ -9,13 +9,22 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=psh6464)](https://solved.ac/psh6464/)
 
 ### 언어
-* C, C++, Java, JavaScript
+* C, C++, Java, JavaScript, Html
 
-### 기술 스택
-* Spring Boot, Spring Data JPA, Spring Security, Spring RestDocs, Vue.js, React, RabbitMQ, WebSocket, Apache Kafka, Docker, Kubernetes, Jenkins, Firebase, MyBatis, AWS EC2, AWS RDS, AWS SES, AWS S3
+### 백엔드 & 프레임워크
+* Spring Boot, Spring Data JPA, Spring Security, MyBatis, Node.js, Express.js, JUnit, WebSocket, RabbitMQ, Kafka
+
+### 프론트엔드
+* React.js, Vue.js
 
 ### 데이터베이스
-* MySQL, MongoDB, Redis, MariaDB
+* MySQL, MongoDB, Redis, MariaDB, SQLite
+
+### DevOps & 빌드 도구
+Gradle, Docker, Jenkins, Kubernetes, GitHub, GitLab
+
+### 클라우드 & 기타
+AWS S3, AWS EC2, AWS RDS, AWS SES, Firebase
 
 ### Github's Status
 ![psh3253's GitHub stats](https://github-readme-stats.vercel.app/api?username=psh3253&show_icons=true&theme=tokyonight)  
